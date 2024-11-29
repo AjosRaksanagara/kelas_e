@@ -1,3 +1,4 @@
 print("Halo Ajos")
-print("esen")
-print("deho")
+print("Jual")
+print("Esen")
+print("Deho")
